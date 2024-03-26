@@ -1,0 +1,8 @@
+body {
+  /* background-image: url("./src/assets/Glass2.jpeg"); */
+  /* background-size: cover; */
+  /* background-attachment: fixed; */
+  font-family: "Proxima Nova", sans-serif;
+  overscroll-behavior: none;
+  font-size: 20px;
+}

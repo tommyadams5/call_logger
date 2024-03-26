@@ -1,0 +1,11 @@
+1
+00:09:00,000 --> 00:09:15,500
+John: Good morning, everyone. Let's kick off with an update on the approvals. We've submitted the environmental impact assessment report last week. Any feedback from the authorities yet?
+
+2
+00:09:16,200 --> 00:09:30,800
+Sara: Hi, John. Yes, we received some initial feedback. They've requested additional details on the sustainability measures we're implementing. I'm coordinating with the architects to provide the necessary information by tomorrow.
+
+3
+00:09:31,100 --> 00:09:45,600
+Mike: Morning, team. On the legal front, we're in the final stages of reviewing the zoning regulations. Everything looks on track for approval by the end of this week. I'll keep you posted on any updates.

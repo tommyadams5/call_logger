@@ -1,0 +1,11 @@
+10
+00:12:00,000 --> 00:12:15,200
+John: Good morning, team. Today's the day. We have the zoning regulations review meeting and expect feedback on the environmental impact assessment. Let's stay proactive and address any concerns swiftly.
+
+11
+00:12:15,500 --> 00:12:30,700
+Sara: Morning, John. I'll be attending the zoning regulations review meeting shortly. The environmental impact assessment feedback is expected by noon. I'll relay updates as soon as they're available.
+
+12
+00:12:31,000 --> 00:12:45,300
+Mike: Team, let's remain focused and ready to make any necessary adjustments based on the feedback. We're well-prepared, and I'm confident in our progress so far.

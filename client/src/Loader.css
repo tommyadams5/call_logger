@@ -1,0 +1,24 @@
+.loader_modal {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(255, 255, 255, 0.93);
+}
+
+.loader {
+  margin-top: -10em;
+  grid-template-columns: auto;
+  display: grid;
+  justify-items: center;
+}
+
+.loader_message {
+  font-weight: 700;
+  font-size: 25px;
+  padding-bottom: 1em;
+}

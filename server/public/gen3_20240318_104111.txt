@@ -1,0 +1,11 @@
+7
+00:11:00,000 --> 00:11:15,200
+John: Team, today is crucial. Have we received any updates on the zoning regulations review? We need to ensure we're aligned for the upcoming approvals meeting.
+
+8
+00:11:15,500 --> 00:11:30,700
+Sara: John, the environmental impact assessment report has been submitted as planned. Regarding zoning regulations, we've received confirmation of a final review meeting tomorrow. I'll attend to address any questions promptly.
+
+9
+00:11:31,000 --> 00:11:45,300
+Mike: Thanks for the updates, Sara. On the legal front, the land acquisition documentation issue has been resolved. We're clear to proceed without any impact on our timelines.

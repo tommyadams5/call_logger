@@ -1,0 +1,12 @@
+
+4
+00:10:00,000 --> 00:10:10,200
+John: Hello again. Any progress updates on the environmental impact assessment? We need to address any concerns swiftly to avoid delays in approvals.
+
+5
+00:10:10,500 --> 00:10:25,700
+Sara: Hi, John. We've incorporated the requested sustainability measures into the report. It's undergoing final review before submission today. I'll ensure it's comprehensive and addresses all concerns raised.
+
+6
+00:10:26,000 --> 00:10:40,300
+Mike: Good to hear, Sara. On the legal side, we've encountered a minor hiccup regarding land acquisition documentation. Our legal team is resolving it, and we expect no significant delays.
